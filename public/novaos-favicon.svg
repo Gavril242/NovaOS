@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>NovaOS</title>
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="55%" stop-color="#2563eb" />
+      <stop offset="100%" stop-color="#16a34a" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#bg)" />
+  <rect x="12" y="14" width="40" height="28" rx="7" fill="#f8fafc" fill-opacity="0.96" />
+  <rect x="16" y="18" width="32" height="4" rx="2" fill="#0f172a" fill-opacity="0.16" />
+  <path d="M24 36V25l8 7 8-7v11z" fill="#2563eb" />
+  <circle cx="47" cy="47" r="7" fill="#f8fafc" fill-opacity="0.95" />
+  <path d="M47 43.5v7M43.5 47h7" stroke="#16a34a" stroke-linecap="round" stroke-width="2.2" />
+</svg>
